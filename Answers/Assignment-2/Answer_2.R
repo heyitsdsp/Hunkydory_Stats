@@ -1,6 +1,6 @@
-# CTRL+L to clear the console
 # Clearing the environment
 rm(list = ls())
+cat("\014")
 
 x = c(10, 15, 12, 17, 13, 16, 24, 14, 22)
 y = c(30, 42, 45, 46, 33, 34, 40, 35, 39)

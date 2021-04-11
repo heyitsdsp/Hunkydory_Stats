@@ -1,6 +1,6 @@
-# Perform a CTRL+L to clear the console
 # Clearing the environment
 rm(list = ls())
+cat("\014")
 
 # Setting up the frequency distribution
 x = seq(5, 65, 10)
