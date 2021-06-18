@@ -1,3 +1,6 @@
+# Statistics for Engineers
+## _Assignment-4_
+
 1. In a box of switches it is known 10% of the switches are faulty. A technicianis wiring 30 circuits, each of which needs one switch. What is theprobability that (a) all 30 work, (b) at most 2 of the circuits do not work?
 
 2. If 10% of the Screws produced by an automatic machine are defective, find the probability that out of 20 screws selected at random, there are (i) Exactly 2 defective (ii) At least 2 defectives(iii) Between 1 and 3 defectives (inclusive)
